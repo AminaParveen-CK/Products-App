@@ -56,22 +56,6 @@ It correctly bundles React in production mode and optimizes the build for the be
    npm start
    The app will be available at http://localhost:3000.
 
-## Folder structure
-
-product-app/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── ProductList.js
-│   │   ├── FilterBar.js
-│   │   └── SortDropdown.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── README.md
 
 ## Technologies Used
 
