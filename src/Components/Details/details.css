@@ -1,0 +1,16 @@
+.detail-page{
+    width: 90%;
+    height: 80vh;
+    margin: auto;
+    margin-top: 6%;
+}
+.details-img{
+    border: 1px solid bisque;
+}
+.details-img img{
+    width: 100%;
+}
+.details{
+    margin: auto;
+    text-align: left;
+}

@@ -1,0 +1,13 @@
+.category-page-container{
+    width: 80%;
+    margin: 2% auto;
+}
+.card-link{
+    text-decoration: none;
+    color: black;
+}
+.card-link:hover{
+    text-decoration: none;
+    color: black;
+}
+
